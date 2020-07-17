@@ -1,3 +1,4 @@
+"""
 def suma():
     uno=1
     dos=2
@@ -16,3 +17,10 @@ def sumaReturn(uno, dos):
 
 resultado_sumaReturn=sumaReturn(2,4)
 print(resultado_sumaReturn)
+"""
+def tabla():
+    global texto = 'texto' # hago una variable global
+    for x in range(10):
+        print("7 * {} = {}".format(x,x*7))
+
+print(tabla())
