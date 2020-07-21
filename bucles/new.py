@@ -4,4 +4,4 @@ como el de más abajo, de altura el número introducido. """
 num = int(input("Digite un numero: "))
 
 for x in range(num):
-    print('x')
+    print('x' * (x+1))
