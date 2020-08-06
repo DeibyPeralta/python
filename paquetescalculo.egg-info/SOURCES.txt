@@ -1,0 +1,10 @@
+README.md
+setup.py
+paquetes/__initi__.py
+paquetes/calculos_generales.py
+paquetes/potencias/__initi__.py
+paquetes/potencias/expo.py
+paquetescalculo.egg-info/PKG-INFO
+paquetescalculo.egg-info/SOURCES.txt
+paquetescalculo.egg-info/dependency_links.txt
+paquetescalculo.egg-info/top_level.txt

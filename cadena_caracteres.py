@@ -1,3 +1,18 @@
+"""
+upper()         todo a mayuscula
+lower()         todo minuscula
+capitalize()    1 letra mayuscula
+count()         cuantas veces aparece una letra
+find()          posicion de un caracteres
+isdigit()       devuelve boolean
+isalum()        alfanumerico
+isalpha()       solo letra      """
+
+nombre = input("Digite su nombre: ")
+print("Nombre: ",nombre.upper())
+
+#   objeto.metodo
+
 #   indices en caracteres
 
 palabra = ("sacar el indice del texto")
@@ -11,8 +26,6 @@ print(palabra[:8])
 print(palabra[8:])
 
 print(len(palabra))
-
-
 
 # print(""" de esta manera
 # nos ahorramos a nuna
